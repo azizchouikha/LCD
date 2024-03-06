@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCD", "LCD.csproj", "{06406FB8-2A85-467C-869B-F2D54FFC4F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCD.Test", "..\LCD.Test\LCD.Test.csproj", "{BC1CB1B6-D439-48D2-B464-1C20EAC7FB48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06406FB8-2A85-467C-869B-F2D54FFC4F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06406FB8-2A85-467C-869B-F2D54FFC4F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06406FB8-2A85-467C-869B-F2D54FFC4F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06406FB8-2A85-467C-869B-F2D54FFC4F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1CB1B6-D439-48D2-B464-1C20EAC7FB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1CB1B6-D439-48D2-B464-1C20EAC7FB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1CB1B6-D439-48D2-B464-1C20EAC7FB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1CB1B6-D439-48D2-B464-1C20EAC7FB48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {121FEB51-7420-4A7E-B75B-9F0D35B3878A}
+	EndGlobalSection
+EndGlobal
