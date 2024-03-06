@@ -15,6 +15,7 @@ namespace AfficheurLCD
             "   " + Environment.NewLine +
             "  |" + Environment.NewLine +
             "  |";
+        public static readonly string Deux = "";
     }
 
 }
